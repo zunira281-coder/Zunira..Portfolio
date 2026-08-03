@@ -1050,22 +1050,6 @@ RESUME
 
 }
 
-.resume iframe{
-
-    width:100%;
-
-    height:700px;
-
-    border:none;
-
-    border-radius:15px;
-
-    background:#fff;
-
-    margin-bottom:30px;
-
-}
-
 .resume-buttons{
 
     display:flex;
