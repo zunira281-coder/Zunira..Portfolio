@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ZUNIRA | Digital Marketing Portfolio</title>
+
+    <meta name="description"
+        content="Professional Digital Marketing Portfolio of Zunira | Shopify, SEO, Meta Pixel & E-commerce.">
+
+    <meta name="keywords"
+        content="Zunira, Digital Marketing, Shopify, SEO, Portfolio, Meta Pixel">
+
+    <meta name="author" content="Zunira">
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Fonts -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome -->
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+    <!-- Scroll Progress -->
+
+    <div id="progress-bar"></div>
+
+    <!-- Back To Top -->
+
+    <button id="topBtn">
+
+        <i class="fa-solid fa-arrow-up"></i>
+
+    </button>
+
+    <!-- ========================= -->
+
+    <!-- HEADER -->
+
+    <!-- ========================= -->
+
+    <header>
+
+        <div class="container nav-container">
+
+            <div class="logo">
+
+                <a href="#home">
+
+                    Z<span>.</span>
+
+                </a>
+
+            </div>
+
+            <nav>
+
+                <ul id="menu">
+
+                    <li><a href="#home">Home</a></li>
+
+                    <li><a href="#about">About</a></li>
+
+                    <li><a href="#experience">Experience</a></li>
+
+                    <li><a href="#education">Education</a></li>
+
+                    <li><a href="#skills">Skills</a></li>
+
+                    <li><a href="#projects">Projects</a></li>
+
+                    <li><a href="#store">Store</a></li>
+
+                    <li><a href="#resume">Resume</a></li>
+
+                    <li><a href="#contact">Contact</a></li>
+
+                </ul>
+
+            </nav>
+
+            <div class="menu-btn">
+
+                <i class="fa-solid fa-bars"></i>
+
+            </div>
+
+        </div>
+
+    </header>
+
+    <!-- ========================= -->
+
+    <!-- HERO -->
+
+    <!-- ========================= -->
+
+    <section id="home" class="hero">
+
+        <div class="container hero-content">
+
+            <div class="hero-text">
+
+                <span class="small-title">
+
+                    DIGITAL MARKETING PORTFOLIO
+
+                </span>
+
+                <h1>
+
+                    Hi, I'm
+
+                    <span>ZUNIRA</span>
+
+                </h1>
+
+                <h2 class="typing-text">
+
+                    Digital Marketing Intern
+
+                </h2>
+
+                <p>
+
+                    Aspiring Digital Marketing professional with practical
+                    experience in Shopify Store Management, Basic SEO,
+                    Keyword Research, Meta Pixel Integration and E-commerce.
+                    Passionate about building user-focused online stores,
+                    improving website visibility, and continuously learning
+                    modern digital marketing strategies.
+
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a href="resume.pdf"
+                        target="_blank"
+                        class="btn">
+
+                        <i class="fa-solid fa-eye"></i>
+
+                        View Resume
+
+                    </a>
+
+                    <a href="resume.pdf"
+                        download
+                        class="btn btn-dark">
+
+                        <i class="fa-solid fa-download"></i>
+
+                        Download Resume
+
+                    </a>
+
+                </div>
+
+                <div class="hero-buttons second-row">
+
+                    <a href="https://azeo-owneverystep.store/"
+                        target="_blank"
+                        class="btn">
+
+                        <i class="fa-solid fa-store"></i>
+
+                        Visit Live Store
+
+                    </a>
+
+                    <a href="#contact"
+                        class="btn btn-dark">
+
+                        <i class="fa-solid fa-paper-plane"></i>
+
+                        Send Message
+
+                    </a>
+
+                </div>
+
+                <div class="quick-contact">
+
+                    <a href="mailto:zunirazani281@gmail.com">
+
+                        <i class="fa-solid fa-envelope"></i>
+
+                        Email
+
+                    </a>
+
+                    <a href="https://wa.me/923047892281"
+                        target="_blank">
+
+                        <i class="fa-brands fa-whatsapp"></i>
+
+                        WhatsApp
+
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="hero-card">
+
+                <div class="glass-card">
+
+                    <h3>
+
+                        Professional Profile
+
+                    </h3>
+
+                    <div class="info">
+
+                        <p>
+
+                            <strong>Name :</strong>
+
+                            ZUNIRA
+
+                        </p>
+
+                        <p>
+
+                            <strong>Role :</strong>
+
+                            Digital Marketing Intern
+
+                        </p>
+
+                        <p>
+
+                            <strong>Specialization :</strong>
+
+                            Shopify • SEO • Meta Pixel
+
+                        </p>
+
+                        <p>
+
+                            <strong>Education :</strong>
+
+                            BS Physics
+
+                        </p>
+
+                        <p>
+
+                            <strong>Status :</strong>
+
+                            Available for Internship & Jobs
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ABOUT SECTION STARTS BELOW -->
+    <!-- ========================= -->
+    <!-- ABOUT -->
+    <!-- ========================= -->
+
+    <section id="about" class="about section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Who I Am</span>
+
+                <h2>About Me</h2>
+
+                <p>
+                    A motivated Digital Marketing Intern with practical
+                    experience in Shopify Store Management, Basic SEO,
+                    Keyword Research, Meta Pixel Integration and E-commerce.
+                    I enjoy creating user-friendly online stores, improving
+                    website visibility, and learning modern digital marketing
+                    strategies that contribute to business growth.
+                </p>
+
+            </div>
+
+            <div class="about-wrapper">
+
+                <div class="about-card">
+
+                    <i class="fa-solid fa-store"></i>
+
+                    <h3>Shopify</h3>
+
+                    <p>
+                        Hands-on experience in Shopify store setup,
+                        product listings, collections, navigation,
+                        store customization and essential store pages.
+                    </p>
+
+                </div>
+
+                <div class="about-card">
+
+                    <i class="fa-solid fa-magnifying-glass-chart"></i>
+
+                    <h3>SEO</h3>
+
+                    <p>
+                        Practical knowledge of keyword research,
+                        on-page SEO, meta titles, meta descriptions
+                        and website optimization.
+                    </p>
+
+                </div>
+
+                <div class="about-card">
+
+                    <i class="fa-brands fa-meta"></i>
+
+                    <h3>Meta Pixel</h3>
+
+                    <p>
+                        Configured Meta Pixel, verified event tracking
+                        and connected Shopify stores with Meta Business
+                        tools for analytics.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- EXPERIENCE -->
+    <!-- ========================= -->
+
+    <section id="experience" class="experience section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Journey</span>
+
+                <h2>Work Experience</h2>
+
+            </div>
+
+            <div class="timeline">
+
+                <div class="timeline-item">
+
+                    <div class="timeline-icon">
+
+                        <i class="fa-solid fa-briefcase"></i>
+
+                    </div>
+
+                    <div class="timeline-content">
+
+                        <span>2024 – 2025</span>
+
+                        <h3>The Royal School Gojra</h3>
+
+                        <h4>Science Teacher</h4>
+
+                        <p>
+
+                            Worked as a Science Teacher for 1.5 years,
+                            delivering engaging lessons, managing classroom
+                            activities, assessing student performance,
+                            and maintaining a positive learning environment.
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- EDUCATION -->
+    <!-- ========================= -->
+
+    <section id="education" class="education section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Learning</span>
+
+                <h2>Education</h2>
+
+            </div>
+
+            <div class="education-grid">
+
+                <div class="education-card">
+
+                    <div class="edu-year">
+
+                        2026
+
+                    </div>
+
+                    <h3>
+
+                        Digital Marketing (Shopify & SEO)
+
+                    </h3>
+
+                    <h4>
+
+                        CORVIT SYSTEM FSD
+
+                    </h4>
+
+                    <p>
+
+                        Completed practical training in Shopify,
+                        Basic SEO, website optimization,
+                        keyword research and E-commerce.
+
+                    </p>
+
+                </div>
+
+                <div class="education-card">
+
+                    <div class="edu-year">
+
+                        2023 – 2024
+
+                    </div>
+
+                    <h3>
+
+                        Graphics Designing & Office Management
+
+                    </h3>
+
+                    <h4>
+
+                        Bright Future Institute
+
+                    </h4>
+
+                    <p>
+
+                        Developed practical skills in graphic design,
+                        Microsoft Office, document handling,
+                        social media creatives and office management.
+
+                    </p>
+
+                </div>
+
+                <div class="education-card">
+
+                    <div class="edu-year">
+
+                        2019 – 2023
+
+                    </div>
+
+                    <h3>
+
+                        BS Physics
+
+                    </h3>
+
+                    <h4>
+
+                        Government College University Faisalabad
+
+                    </h4>
+
+                    <p>
+
+                        Built strong analytical, quantitative,
+                        research and problem-solving skills
+                        through academic projects and coursework.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- SKILLS SECTION STARTS BELOW -->
+    <!-- ========================= -->
+    <!-- SKILLS -->
+    <!-- ========================= -->
+
+    <section id="skills" class="skills section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Expertise</span>
+
+                <h2>Professional Skills</h2>
+
+                <p>
+                    Practical skills developed through academic learning and
+                    hands-on Digital Marketing training.
+                </p>
+
+            </div>
+
+            <div class="skills-grid">
+
+                <div class="skill-card">
+                    <i class="fa-solid fa-store"></i>
+                    <h3>Shopify Store Management</h3>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <h3>Basic SEO</h3>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fa-solid fa-key"></i>
+                    <h3>Keyword Research</h3>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fa-solid fa-chart-line"></i>
+                    <h3>Website Optimization</h3>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fa-brands fa-meta"></i>
+                    <h3>Meta Pixel Integration</h3>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fa-solid fa-palette"></i>
+                    <h3>Canva Design</h3>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fa-solid fa-folder-open"></i>
+                    <h3>Office Management</h3>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fa-solid fa-laptop-code"></i>
+                    <h3>Digital Marketing</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- PROJECTS -->
+    <!-- ========================= -->
+
+    <section id="projects" class="projects section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Portfolio</span>
+
+                <h2>Projects</h2>
+
+            </div>
+
+            <div class="projects-grid">
+
+                <div class="project-card">
+
+                    <div class="project-icon">
+
+                        <i class="fa-solid fa-cart-shopping"></i>
+
+                    </div>
+
+                    <h3>Shopify E-commerce Store</h3>
+
+                    <p>
+
+                        Developed and customized a complete Shopify store,
+                        including products, collections, navigation menus,
+                        and essential store pages with a user-friendly design.
+
+                    </p>
+
+                </div>
+
+                <div class="project-card">
+
+                    <div class="project-icon">
+
+                        <i class="fa-solid fa-chart-column"></i>
+
+                    </div>
+
+                    <h3>Basic SEO Project</h3>
+
+                    <p>
+
+                        Conducted keyword research and optimized website
+                        content using meta titles, meta descriptions and
+                        on-page SEO techniques.
+
+                    </p>
+
+                </div>
+
+                <div class="project-card">
+
+                    <div class="project-icon">
+
+                        <i class="fa-brands fa-meta"></i>
+
+                    </div>
+
+                    <h3>Meta Pixel Integration</h3>
+
+                    <p>
+
+                        Connected Meta Pixel with Shopify store,
+                        verified event tracking and configured
+                        Meta Business tools for marketing analytics.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- LIVE STORE -->
+    <!-- ========================= -->
+
+    <section id="store" class="store section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Live Project</span>
+
+                <h2>Shopify Store</h2>
+
+            </div>
+
+            <div class="store-wrapper">
+
+                <div class="store-image">
+
+                    <img src="images/store.png"
+                        alt="Shopify Store Screenshot">
+
+                </div>
+
+                <div class="store-content">
+
+                    <h3>
+
+                        Azeo - Own Every Step
+
+                    </h3>
+
+                    <p>
+
+                        A live Shopify E-commerce website developed with
+                        attention to user experience, product organization,
+                        collections and responsive layout.
+
+                    </p>
+
+                    <a href="https://azeo-owneverystep.store/"
+                        target="_blank"
+                        class="btn">
+
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+
+                        Visit Live Store
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- RESUME -->
+    <!-- ========================= -->
+
+    <section id="resume" class="resume section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Resume</span>
+
+                <h2>Curriculum Vitae</h2>
+
+            </div>
+
+            <div class="resume-box">
+
+                <iframe src="resume.pdf"></iframe>
+
+                <div class="resume-buttons">
+
+                    <a href="resume.pdf"
+                        target="_blank"
+                        class="btn">
+
+                        <i class="fa-solid fa-eye"></i>
+
+                        View Resume
+
+                    </a>
+
+                    <a href="resume.pdf"
+                        download
+                        class="btn btn-dark">
+
+                        <i class="fa-solid fa-download"></i>
+
+                        Download Resume
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- CONTACT -->
+    <!-- ========================= -->
+
+    <section id="contact" class="contact section">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>Contact</span>
+
+                <h2>Let's Connect</h2>
+
+            </div>
+
+            <div class="contact-wrapper">
+
+                <div class="contact-info">
+
+                    <div class="contact-card">
+
+                        <i class="fa-solid fa-envelope"></i>
+
+                        <h3>Email</h3>
+
+                        <a href="mailto:zunirazani281@gmail.com">
+
+                            zunirazani281@gmail.com
+
+                        </a>
+
+                    </div>
+
+                    <div class="contact-card">
+
+                        <i class="fa-brands fa-whatsapp"></i>
+
+                        <h3>WhatsApp</h3>
+
+                        <a href="https://wa.me/923047892281"
+                            target="_blank">
+
+                            Chat on WhatsApp
+
+                        </a>
+
+                    </div>
+
+                    <div class="contact-card">
+
+                        <i class="fa-solid fa-phone"></i>
+
+                        <h3>Phone</h3>
+
+                        <a href="tel:+923047892281">
+
+                            +92 304 7892281
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <div class="contact-actions">
+
+    <a href="mailto:zunirazani281@gmail.com?subject=Portfolio%20Inquiry"
+       class="btn">
+
+        <i class="fa-solid fa-envelope"></i>
+
+        Send Email
+
+    </a>
+
+    <a href="https://wa.me/923047892281"
+       target="_blank"
+       class="btn btn-dark">
+
+        <i class="fa-brands fa-whatsapp"></i>
+
+        Chat on WhatsApp
+
+    </a>
+
+</div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- FOOTER -->
+    <!-- ========================= -->
+
+    <footer>
+
+        <div class="container">
+
+            <h3>
+
+                ZUNIRA
+
+            </h3>
+
+            <p>
+
+                Digital Marketing Intern | Shopify | SEO | E-commerce
+
+            </p>
+
+            <p class="copyright">
+
+                © 2026 ZUNIRA. All Rights Reserved.
+
+            </p>
+
+        </div>
+
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
